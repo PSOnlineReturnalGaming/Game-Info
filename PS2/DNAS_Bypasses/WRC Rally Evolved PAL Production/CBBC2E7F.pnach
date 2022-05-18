@@ -1,0 +1,13 @@
+patch=1,EE,2037A233,extended,09800000
+patch=1,EE,F06432D8,extended,006432DB
+patch=1,EE,F01001E8,extended,001001EB
+
+patch=1,EE,2037A233,extended,21800000
+patch=1,EE,20241174,extended,24020001
+patch=1,EE,204D069C,extended,00103410
+
+patch=1,EE,903E1D10,extended,0C0F86EC
+patch=1,EE,D19606AC,extended,24020006
+patch=1,EE,019606A0,extended,00000000
+patch=1,EE,D19606AC,extended,24020006
+patch=1,EE,019606AC,extended,00000005

@@ -1,5 +1,7 @@
 # Game-Info
 
+Based on the repo from PSRewired: https://github.com/PSRewired/Game-Information
+
 This repo serves to provide game patches, bypasses, and more for your favorite titles that we support on PSORG, among other information that will be useful for restoring online games!
 
 If you have curated or found a better DNAS bypass code, please do a pull request and we will add it!
